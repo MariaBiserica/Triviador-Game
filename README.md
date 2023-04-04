@@ -46,8 +46,7 @@ c. sugerare răspuns: avantaj care sugerează utilizatorului răspunsul corect(s
 Costul fiecărui avantaj este egal cu 100 de unități. Acest cost va fi plătit din scorul unei regiuni a cărei valoare este de minimum 200 de unități, regiunea care va plăti prețul va fi aleasă de jucător după încheierea luptei în care a folosit avantajul.
 
 
-Cerințe de bază
-
+CERINTE DE BAZA:
 ➡ Retelistica: implementarea aplicației respectand arhitectura client-server(aplicația trebuie sa asigure posibilitatea creării a minim 2 instanțe de client + 1 aplicație server care vor comunica prin rețea). 
 
 ➡ Pagină de Login/Register: la pornire, unui utilizator i se oferă posibilitatea de a se loga în contul său sau își poate crea un cont. Logarea/înregistrarea presupune introducerea numelui de utilizator. Atenție: numele de utilizator trebuie să fie unic!
@@ -64,8 +63,18 @@ Dimensiunea tablei de joc și numărul de runde pot fi modificate! A se urmări 
 ➡ Pagina de profil a utilizatorului: Aici un utilizator poate vizualiza un istoric al meciurilor jucate 
 
 
-Componente avansate ale proiectului
-
+COMPONENTE AVANSATE ALE PROIECTULUI:
 ➡ GUI - Să se implementeze o interfață grafică pentru cerințele de bază folosind framework-ul Qt.
 
 ➡ Bază de date: Pentru a vă organiza datele, puteți să le stocați într-o bază de date. Se va folosi biblioteca de SQLite SQLite ORM (NU ALTA). Se poate instala într-un proiect de Visual Studio folosind Microsoft vcpkg.
+
+ELEMENTE DE MODERN C++:
+➡ const ref
+➡ move semantics
+➡ structuri de date moderne - Containers library
+➡ algoritmi moderni - Algorithms library
+➡ smart pointers - Dynamic memory management
+➡ template
+➡ Regex
+➡ DLL
+➡ Studierea profilului si performantei aplicatiei
