@@ -1,4 +1,7 @@
 # Triviador
+Acest proiect implementeaza o aplicație desktop multiplayer interactivă cu componente Modern C ++, construită folosind o varietate de tehnologii precum: cadru Qt pentru design front-end, cadru Crow pentru operațiuni pe partea de server, SQLite ORM ca un instrument backend pentru gestionarea eficientă a bazelor de date. 
+
+Aplicația oferă o serie de caracteristici concepute pentru a îmbunătăți experiența de joc, inclusiv meciuri multiplayer personalizate în timp real, o bază de date cuprinzătoare trivia și algoritmi de matchmaking sofisticați.
 
 Jocurile de inteligență și strategie sunt populare în rândul copiilor, dar și al adulților care se mandresc cu o vastă cultură generală. Un astfel de tip de joc este Triviador, iar scopul acestui proiect este de a implementa propria noastra versiune a acestui joc. Pentru implementarea aplicației trebuie să respectăm regulile jocului:
 
